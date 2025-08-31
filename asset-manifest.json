@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aerosvision/static/css/main.e9de2eff.css",
-    "main.js": "/aerosvision/static/js/main.aaaa7717.js",
+    "main.js": "/aerosvision/static/js/main.53b91639.js",
     "static/media/logo.png": "/aerosvision/static/media/logo.6121948c045e07804330.png",
     "index.html": "/aerosvision/index.html",
     "main.e9de2eff.css.map": "/aerosvision/static/css/main.e9de2eff.css.map",
-    "main.aaaa7717.js.map": "/aerosvision/static/js/main.aaaa7717.js.map"
+    "main.53b91639.js.map": "/aerosvision/static/js/main.53b91639.js.map"
   },
   "entrypoints": [
     "static/css/main.e9de2eff.css",
-    "static/js/main.aaaa7717.js"
+    "static/js/main.53b91639.js"
   ]
 }
