@@ -11,7 +11,7 @@ const HomePage = () => {
       link: "/services/cloud-infrastructure-migration"
     },
     {
-      title: "DevOps & SRE Solutionssss",
+      title: "DevOps & SRE Solutions",
       icon: "⚙️",
       description: "CI/CD pipelines & automation. Infrastructure as Code (IaC) with Terraform, Ansible. Monitoring, logging, and reliability engineering. Cost optimization & performance tuning.",
       link: "/services/devops-sre-solutions"
