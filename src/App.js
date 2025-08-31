@@ -55,7 +55,8 @@ const App = () => {
             <Route path="/login" element={<LoginPage />} />
             <Route path="/signup" element={<SignupPage />} />
             <Route path="/instructor-dashboard" element={<InstructorDashboard />} />
-            <Route path="*" element={<PageContent pageTitle="Page Not Found" description="The page you are looking for does not exist." />} />
+            {/*<Route path="*" element={<PageContent pageTitle="Page Not Found" description="The page you are looking for does not exist." />} />*/}
+            <Route path="*" element={<HomePage />} />
           </Routes>
         </div>
         <Footer />
