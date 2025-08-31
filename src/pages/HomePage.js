@@ -5,7 +5,7 @@ const HomePage = () => {
   // Array of service categories with descriptions and links
   const services = [
     {
-      title: "Cloud Infrastructure & Migrations",
+      title: "Cloud Infrastructure & Migration",
       icon: "☁️",
       description: "End-to-end cloud setup (AWS, Azure, GCP). On-prem to cloud migration. Security, scalability & compliance-first approach.",
       link: "/services/cloud-infrastructure-migration"
